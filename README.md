@@ -7,7 +7,7 @@ Programs written during the Network Programming course in BITS-Pilani, Pilani ca
 ####Course Details:
  - Covers all material from WR Stevens UNIX Network Programming books.
  - Programming language of choice is C
- - Taught by Professor K. Hari Babu, Dept. of CSIS-BITS
+ - Taught by Assistant Professor K.Hari Babu, CSIS Group BITS-Pilani, Pilani Campus
  
 
 
